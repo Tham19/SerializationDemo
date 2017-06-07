@@ -1,0 +1,5 @@
+com/github/entity/Shoe.class
+com/github/repository/ShoeRepository.class
+com/github/manager/ShoeManagerEntity.class
+com/github/Serialization_demo/App.class
+com/github/managerImpl/ShoeManagerImpl.class
